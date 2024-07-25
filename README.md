@@ -1,2 +1,3 @@
-# prometheus-kubernetes-pulumi-module
-Pulumi Module to Deploy "Prometheus on Kubernetes" w/ Planton Cloud
+# Deploy Prometheus on Kubernetes
+
+This is a Planton Cloud Pulumi Module to deploy Prometheus on Kubernetes.
